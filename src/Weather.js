@@ -1,6 +1,4 @@
 import React from "react";
-import { Audio } from "react-loader-spinner";
-import axios from "axios";
 import "./Weather.css";
 
 export default function Weather() {
